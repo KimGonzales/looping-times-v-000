@@ -4,4 +4,8 @@ def using_times
   end
 end
 
+<<<<<<< HEAD
 using_times
+=======
+using_times
+>>>>>>> 9c96d4b55b80deb2829747e5d77a63ae0d3eb479
